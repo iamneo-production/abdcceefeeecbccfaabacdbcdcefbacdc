@@ -1,4 +1,3 @@
-package stepDefination;
 
 import java.util.List;
 import org.openqa.selenium.By;
@@ -9,7 +8,7 @@ import cucumber.annotation.en.Then;
 import cucumber.annotation.en.When;
 
 
-public class stepDefination {
+public class Stepdef {
     WebDriver driver=null;
 
     @Given("^User is on registration page$")
